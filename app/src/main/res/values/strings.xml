@@ -1,0 +1,120 @@
+<resources>
+    <string name="app_name">Real Madrid Top Scorer</string>
+
+    <string name="topscorer_name">Top Scorer Name</string>
+    <string name="description">Description</string>
+    <string name="total_goals">999 Goals</string>
+    <string name="total_matches">999 Matches</string>
+    <string name="total_years">1999-2023</string>
+    <string name="detail">Detail Biodata</string>
+
+    <string name="goals">Goals</string>
+    <string name="matches">Matches</string>
+    <string name="periode">Year</string>
+    <string name="about_player">Description</string>
+
+    <string-array name="data_name">
+        <item>Cristiano Ronaldo</item>
+        <item>Karim Benzema</item>
+        <item>Raul Gonzalez</item>
+        <item>Alfredo Di Stefano</item>
+        <item>Carlos Santillana</item>
+        <item>Ferenc Puskas</item>
+        <item>Hugo Sanchez</item>
+        <item>Francisco Paco Gento</item>
+        <item>Pirrir</item>
+        <item>Emilio Butragueno</item>
+    </string-array>
+
+    <string-array name="data_goals">
+        <item>450 Goals </item>
+        <item>354 Goals </item>
+        <item>323 Goals</item>
+        <item>308 Goals</item>
+        <item>290 Goals</item>
+        <item>242 Goals</item>
+        <item>208 Goals</item>
+        <item>182 Goals</item>
+        <item>172 Goals</item>
+        <item>171 Goals</item>
+    </string-array>
+
+    <string-array name="data_matches">
+        <item>438 Matches</item>
+        <item>648 Matches</item>
+        <item>741 Matches</item>
+        <item>396 Matches</item>
+        <item>645 Matches</item>
+        <item>262 Matches</item>
+        <item>282 Matches</item>
+        <item>600 Matches</item>
+        <item>561 Matches</item>
+        <item>463 Matches</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>
+            Cristiano Ronaldo is one of the best Real Madrid top goal scorers. The Portuguese forward was a fan favourite throughout his stay in Spain\'s top flight. The Spanish capital club paid $86.5 million to Manchester United for Cristiano Ronaldo before the 2009–10 season. After scoring in his La Liga debut, the Portuguese scored in each of his first four league games, becoming the first Real Madrid lad to accomplish this feat.
+        </item>
+        <item>
+            Raul González Blanco is the club’s second all-time leading scorer, scoring 323 goals in all competitions. The Spaniard made his debut with Los Blancos as a forward. He began his professional career in the reserve team of Real Madrid before being promoted to the first team. Raul appeared in 550 La Liga matches for the team, scoring 228 goals.He won six trophies in La Liga, three in the UEFA Champions League, four in the Supercopa de Espana, one in the UEFA Super Cup, and two in the Intercontinental Cup. Raul presently ranks fifth all-time in La Liga, scoring 228 goals. He was Real Madrid\'s all-time highest scorer until Cristiano broke his record.
+        </item>
+        <item>
+            Karim Mostafa Benzema is a Real Madrid professional footballer from France. The French player is highly regarded among the top Real Madrid top scorers this season and is one of the world\'s top attackers. Karim Benzema is the club’s third-highest scorer, with 317 goals across all competitions. Benzema began his professional career with Olympique Marseille of the French Ligue 1 before joining Real Madrid in 2009.
+        </item>
+        <item>
+            He has scored 308 goals in all competitions for Real Madrid, making him the club\'s fourth most-prolific scorer of all time. He is highly regarded as one of the best players in the world. Di Stéfano joined Los Blancos following an outstanding career at Millonarios. He won La Liga in his first season and followed that up with consecutive victories the following season. Alfredo Di Stéfano\'s Los Blancos trophy collection places him among all-time greats. He won eight La Liga titles, five European Cups, one Intercontinental Cup, and one Copa del Generalisimo. In addition, he is among the Real Madrid Champions League all-time top scorers.
+        </item>
+        <item>
+            Carlos Alonso González, a Real Madrid striker, was recognised for his goal-scoring prowess. The Spaniard remained with the team for the rest of his professional career after only one season at Racing Santander. At the age of 19, he made his debut for Real Madrid and became one of the greatest players in the club\'s history. In his first season with the team, he netted more than 30 goals.
+        </item>
+        <item>
+            Ferenc Puskás, a Hungarian striker or offensive midfielder for Real Madrid, is primarily recognised as one of the finest players, if not the most fantastic striker of all time. Puskás is well known for his ability to score goals. He spent his entire career with Honvéd Budapest and Real Madrid. He was key during his Real Madrid career, winning five La Liga titles, one Copa del Generalisimo, three European Cups, and one Intercontinental Cup.
+        </item>
+        <item>
+            A former Mexican footballer, Hugo Sánchez Márquez is the club\'s seventh-highest scorer of all time. Sánchez is well known in Mexico as the country\'s finest-ever footballer. Atlético Madrid was where he began his career, as he scored 53 goals in 111 league games over the course of four years. Real Madrid signed him because of his stellar performances in the city.
+        </item>
+        <item>
+            Francisco Gento López was a left-winger for the Los Blancos. Racing Santander was the first team he played for before joining Barcelona. In his 18 years at Real Madrid, Gento López won 12 La Liga championships, two Copa del Rey titles, six European Cup (Champions League) crowns, and one Intercontinental Cup.
+        </item>
+        <item>
+            José Martnez Sánchez began his career as a centre midfielder with Los Blancos and was frequently regarded as a sweeper. He began his professional career with Granada before joining Real Madrid due to his outstanding form. Finally, in 1964, he joined the Los Blancos and quickly established himself as a critical player in the first team. He stayed with the club for 16 years, earning ten La Liga titles, four Copa del Rey trophies, and one European Cup. In addition, he is one of the club\'s all-time leading top scorers.
+        </item>
+        <item>
+            All time leading scorer Emilio Butragueo Santos of Real Madrid has 171 goals in all competitions. The Spaniard made 463 appearances with Los Blancos, mostly as a forward. During his Real Madrid career, Emilio Butragueo Santos won six La Liga championships, two Copa del Rey crowns, one Copa de la Liga crown, four Supercopa de Espaa crowns and two UEFA Europa League crowns. He was one of the top players during the club\'s formative years as a team competing in Spanish and European football. He is among the best top ten Real Madrid all time top scorers.
+        </item>
+    </string-array>
+    <string-array name="data_years">
+        <item>2009-2018</item>
+        <item>2009-2023</item>
+        <item>1994-2010</item>
+        <item>1953-1964</item>
+        <item>1971-1988</item>
+        <item>1958-1967</item>
+        <item>1985-1992</item>
+        <item>1953-1971</item>
+        <item>1964-1980</item>
+        <item>1983-1995</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/cristiano_ronaldo</item>
+        <item>@drawable/karim_benzema</item>
+        <item>@drawable/raul_gonzalez</item>
+        <item>@drawable/alfredo_di_stefano</item>
+        <item>@drawable/carlos_santillana</item>
+        <item>@drawable/ferenc_puskas</item>
+        <item>@drawable/hugo_sanchez</item>
+        <item>@drawable/paco_gento</item>
+        <item>@drawable/pirri</item>
+        <item>@drawable/emilio_butragueno</item>
+    </integer-array>
+
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="about">About Me</string>
+    <string name="full_name">Adi Prasetya</string>
+    <string name="email">adiprasetyaa11@gmail.com</string>
+    <string name="share">Share</string>
+    <drawable name="my_photo">@drawable/adi_prasetya</drawable>
+
+</resources>
